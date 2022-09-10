@@ -1,5 +1,5 @@
 body{
-  background: #E7F6F2;
+  background: #E9D5DA;
 }
 
 hr{
@@ -7,12 +7,12 @@ hr{
   border: none;
   width: 5%;
   border-style: dotted none none none  ;
-  border-color: #2C3333 ;
+  border-color: #827397  ;
   border-width: 5px;
 }
 
 h1, h3{
-  color: #395B64;
+  color: #827397;
 }
 
 img{
@@ -23,6 +23,41 @@ img{
 }
 
 p{
-  color: #371B58;
+  color: #363062;
   font-size: 18px;
+}
+
+.your-name{
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  border: 1.5px solid #827397;
+  border-radius: 10px;
+}
+
+.your-email{
+  border: 1.5px solid #827397;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.your-message{
+  border: 1.5px solid #827397;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.submit-btn{
+  border-radius: 15px;
+  padding: 5px 20px;
+  border: 1px solid #827397;
+  color: #827397;
+  background-color: rgb(210, 210, 210);
+  box-shadow: none;
+}
+
+.submit-btn:hover{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  
 }
