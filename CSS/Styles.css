@@ -55,9 +55,9 @@ p{
   color: #827397;
   background-color: rgb(210, 210, 210);
   box-shadow: none;
+  cursor: pointer;
 }
 
 .submit-btn:hover{
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
-  
 }
